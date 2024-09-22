@@ -16,12 +16,13 @@ const config = {
   url: 'https://weightliftingstudies.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/weightliftingstudies.org/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'weightliftingstudies', // Usually your GitHub org/user name.
   projectName: 'weightliftingstudies', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
