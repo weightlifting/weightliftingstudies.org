@@ -16,12 +16,12 @@ const config = {
   url: 'https://weightliftingstudies.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/weightliftingstudies.org/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'weightliftingstudies', // Usually your GitHub org/user name.
-  projectName: 'weightliftingstudies', // Usually your repo name.
+  organizationName: 'weightlifting', // Usually your GitHub org/user name.
+  projectName: 'weightliftingstudies.org', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -44,17 +44,18 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js'
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
+        // {
+        //   showReadingTime: true,
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
+        //   // Useful options to enforce blogging best practices
+        //   onInlineTags: 'warn',
+        //   onInlineAuthors: 'warn',
+        //   onUntruncatedBlogPosts: 'warn',
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -68,7 +69,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Weightlifting Studies',
+        title: 'weightliftingStudies',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -80,7 +81,7 @@ const config = {
             position: 'left',
             label: 'Studies',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/weightlifting/weightliftingstudies',
             label: 'GitHub',
@@ -92,11 +93,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Studies',
             items: [
               {
                 label: 'Studies',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
@@ -120,10 +121,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/weightlifting/weightliftingstudies',
