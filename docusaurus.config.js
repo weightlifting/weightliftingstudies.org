@@ -77,9 +77,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'weightliftingGuideSidebar',
             position: 'left',
-            label: 'Studies',
+            label: 'guide',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -93,11 +93,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Studies',
+            title: 'Guide',
             items: [
               {
-                label: 'Studies',
-                to: '/',
+                label: 'guide',
+                to: '/learning-weightlifting',
               },
             ],
           },

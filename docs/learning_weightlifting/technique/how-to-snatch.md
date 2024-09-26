@@ -1,5 +1,5 @@
 ---
-slug: how-to-snatch
+slug: /how-to-snatch
 title: How to Snatch
 description: Snatch
 sidebar_position: 2
