@@ -65,7 +65,9 @@ const sidebars = {
         'studying_weightlifting/question-003',
         'studying_weightlifting/question-004'
       ]
-    }/*,
+    },
+    'about-the-author'
+    /*,
     {
       type: 'category',
       label: 'Blog',
