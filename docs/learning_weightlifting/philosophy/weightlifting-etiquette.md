@@ -1,3 +1,10 @@
+---
+slug: /weightlifting-etiquette
+title: Weightlifting Etiquette
+description: Etiquette for weightlifting
+sidebar_position: 1
+---
+
 Universal:
 
 

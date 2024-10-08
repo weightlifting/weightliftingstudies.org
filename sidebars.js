@@ -66,6 +66,13 @@ const sidebars = {
         'studying_weightlifting/question-004'
       ]
     },
+    {
+      type: 'category',
+      label: 'Philosophy',
+      items: [
+        'weightlifting-etiquette'
+      ]
+    },
     'about-the-author'
     /*,
     {

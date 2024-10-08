@@ -1,3 +1,10 @@
+---
+slug: /how-to-jerk
+title: How to Jerk
+description: How to jerk
+sidebar_position: 4
+---
+
 The Correct grip for the Jerk, Push Press, and Strict Press
 
 When setting up in the front rack overhead movements like jerks, push presses and strict presses, we do this in the same way as in the clean. However, two considerations differ:

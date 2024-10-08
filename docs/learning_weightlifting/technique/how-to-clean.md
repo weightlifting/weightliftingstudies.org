@@ -1,3 +1,10 @@
+---
+slug: /how-to-clean
+title: How to Clean
+description: How to Clean
+sidebar_position: 3
+---
+
 When learning how to snatch and clean we are going to use a top-down model, I don't think doing it this way is inherently better than a bottom-up model, however, it might have an advantage when teaching people who already have a background in lifting weights or powerlifting. I think this might be the case with the aforementioned background, as those beginner weightlifters will tend to move the bar in a deadlifting fashion, which can cause problems in the way the bar is thrown (creating more horizontal force rather than vertical).
 
 

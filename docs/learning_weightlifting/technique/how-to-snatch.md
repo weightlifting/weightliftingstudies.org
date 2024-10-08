@@ -1,3 +1,10 @@
+---
+slug: /how-to-snatch
+title: How to Snatch
+description: How to snatch
+sidebar_position: 2
+---
+
 
 When learning how to snatch and clean this article is going to use a top-down model, this method is not inherently better than a bottom-up model, however, it might have an advantage when teaching people who already have a background in lifting weights or powerlifting. I think people with a more general background will tend to move the bar in a conventional deadlifting fashion, which can cause problems in the way the bar is thrown (creating more horizontal force rather than vertical).
 
