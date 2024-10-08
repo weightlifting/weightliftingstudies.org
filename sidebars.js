@@ -70,7 +70,7 @@ const sidebars = {
       type: 'category',
       label: 'Philosophy',
       items: [
-        'weightlifting-etiquette'
+        'philosophy/weightlifting-etiquette'
       ]
     },
     'about-the-author'
